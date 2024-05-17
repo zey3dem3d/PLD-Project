@@ -1,0 +1,13 @@
+D:\C#Projects\myProject\bin\Debug\myProject.exe.config
+D:\C#Projects\myProject\bin\Debug\myProject.exe
+D:\C#Projects\myProject\bin\Debug\myProject.pdb
+D:\C#Projects\myProject\bin\Debug\CalithaLib.dll
+D:\C#Projects\myProject\bin\Debug\GoldParserEngine.dll
+D:\C#Projects\myProject\obj\Debug\myProject.csproj.AssemblyReference.cache
+D:\C#Projects\myProject\obj\Debug\myProject.Form1.resources
+D:\C#Projects\myProject\obj\Debug\myProject.Properties.Resources.resources
+D:\C#Projects\myProject\obj\Debug\myProject.csproj.GenerateResource.cache
+D:\C#Projects\myProject\obj\Debug\myProject.csproj.CoreCompileInputs.cache
+D:\C#Projects\myProject\obj\Debug\myProject.exe
+D:\C#Projects\myProject\obj\Debug\myProject.pdb
+D:\C#Projects\myProject\obj\Debug\myProject.csproj.Up2Date
